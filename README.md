@@ -1,6 +1,6 @@
 # Hey! Welcome my GitHub profile.
 
-I am currently a student and in my free time I like to talk with friends, work on projects or try to learn new things.
+I am currently a senior in high school and in my free time I like to talk with friends, work on projects or try to learn new things.
 
 ## About me
 
