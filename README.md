@@ -5,7 +5,7 @@ I am currently a student and in my free time I like to talk with friends, work o
 ## About me
 
 - ✨ I am 18
-- 🌱 I’m currently learning batch and powershell syntax for upcoming projects
+- 🌱 I’m currently learning batch and powershell for upcoming projects
 - 💯 You can reach me by either contacting me via [Discord](https://discordlookup.com/user/1069745259518644265) or [Telegram](https://t.me/uhwock)
 - 👑 I **only** speak English
 
