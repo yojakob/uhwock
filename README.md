@@ -23,4 +23,4 @@ If you click on one of my repos and there is nothing in it, It is most likely pr
 
 ![Wocks's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhwock&show_icons=true&theme=radical)
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uhwock&theme=radical)
+
