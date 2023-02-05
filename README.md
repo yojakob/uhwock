@@ -21,6 +21,6 @@ If you click on one of my repos and there is nothing in it, It is most likely pr
   </a>
 </p>
 
-![Wocks's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhwock&show_icons=true&theme=radical)
+![Wocks's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhwock&show_icons=true&theme=graywhite)
 ###
 
