@@ -1,6 +1,6 @@
 # Hey! Welcome my GitHub profile.
 
-I am currently a senior in high school and in my free time I like to talk with friends, work on projects, try to learn new things or play video games.
+I'm a high school graduate who enjoys talking with friends, working random projects, learning new skills, and playing video games in my free time.
 
 ## About me
 
