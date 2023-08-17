@@ -5,7 +5,7 @@ I'm a high school graduate who enjoys talking with friends, working random proje
 ## About me
 
 - ✨ I am 18
-- 🌱 I’m currently learning batch and powershell for upcoming projects
+- 🌱 I’m currently powershell for upcoming projects (Ask me about it!)
 - 💯 You can reach me by either contacting me via [Discord](https://discordlookup.com/user/1069745259518644265) or [Telegram](https://t.me/uhwock)
 - 👑 I **only** speak English
 
