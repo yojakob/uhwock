@@ -10,7 +10,7 @@ we up.
 
 \. dm me on [discord](https://discordlookup.com/user/1069745259518644265)
 
-### my projects:
+### my projects
 
 \. [`w2t`](https://github.com/yojakob/webhooks-to-threads) (`deprecated`)
 
