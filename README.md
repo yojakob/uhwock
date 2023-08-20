@@ -6,7 +6,7 @@ we up.
 
 ### find me
 
-\. see my work [here](https://github.com/yojakob?tab=repositories)
+\. see my repos [here](https://github.com/yojakob?tab=repositories)
 
 \. dm me on [discord](https://discordlookup.com/user/1069745259518644265)
 
