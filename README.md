@@ -1,5 +1,5 @@
 
-[![banner](https://cdn.discordapp.com/attachments/1136417671202742362/1141668237524865104/hi.png)](https://github.com/yojakob) 
+[![banner](https://i.imgur.com/j3q6rMP.png)](https://github.com/yojakob) 
 <h6 align="right">
 we up.
 </h6>
